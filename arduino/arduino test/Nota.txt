@@ -1,0 +1,2 @@
+juntar código RTC con Codigo SD
+y para cargar la hora al reloj y tambien que se guarde en la SD
